@@ -85,7 +85,7 @@
     "cwait": "^1.1.2",
     "figlet": "^1.6.0",
     "http-proxy-agent": "^5.0.0",
-    "inquirer": "^7.0.0",
+    "inquirer": "^8.2.7",
     "loading-cli": "^1.1.0"
   }
 }
